@@ -1,3 +1,7 @@
+# ⚠️ Legacy project
+
+This repository is no longer actively maintained.
+
 # mum
 
 `mum` is short for **M**odern **U**pdate **M**anager
